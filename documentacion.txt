@@ -1,0 +1,14 @@
+npm create vite
+Project name: ... provaNivell1
+√ Package name: ... provanivell1
+√ Select a framework: » React
+√ Select a variant: » TypeScript + SWC
+
+cd .\provaNivell1\
+npm install
+
+npm run dev
+npm run preview
+
+npm install react-bootstrap bootstrap
+npm install react-router-dom
